@@ -1,0 +1,51 @@
+#title{
+  margin: -2vh -2vh 15vh -2vh;
+  background-color: red;
+  padding: 20px;
+  color: white;
+  font-weight: 100;
+  font-family: calibri;
+  font-size: 30px
+}
+#inputt{
+  border: 1px solid pink;
+  width: auto;
+  color: white;
+  max-width: 190px;
+  text-align: right;
+  padding: 10px;
+  margin: 1px auto;
+  border-radius: 5px;
+  background-color:cyan;
+}
+#answerr{
+   border: 1px solid yellow;
+  width: auto;
+  max-width: 190px;
+  text-align: right;
+  padding: 10px;
+  margin: 1px auto;
+  border-radius: 5px;
+  color: green;
+  background-color: yellow;
+}
+#main{
+  text-align: center;
+}
+button{
+  padding:20px;
+  font-family: monospace;
+  font-size: 20px;
+  color: white;
+  background-color: cyan;
+  border: 1px white solid;
+}
+#equals{
+  padding: 20px 99.5px;
+}
+.signs{
+  padding: 20px 20px;
+}
+#clear{
+  padding: 20px 14.5px;
+}
